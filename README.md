@@ -30,3 +30,7 @@ All settings inside of module or in config.js
 			debugging: false 	// midnight for custom timer start
 			}
 	},
+
+Designed by Răzvan Cristea
+https://github.com/hangorazvan
+Creative Commons BY-NC-SA 4.0, Romania.
